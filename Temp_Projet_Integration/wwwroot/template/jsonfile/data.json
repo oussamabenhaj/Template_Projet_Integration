@@ -1,0 +1,57 @@
+[
+  {
+    "href": "",
+    "logo": "laptop",
+    "name": "lien1",
+  },
+  {
+    "href": "/",
+    "logo": "speedometer",
+    "name": "Dashboard"
+  },
+  {
+    "href": "",
+    "logo": "speedometer",
+    "name": "lien2"
+  },
+  {
+    "href": "",
+    "logo": "playlist-play",
+    "name": "lien3"
+  },
+  {
+    "href": "",
+    "logo": "table-large",
+    "name": "lien4"
+  },
+  {
+    "href": "",
+    "logo": "chart-bar",
+    "name": "lien5"
+  },
+  {
+    "href": "",
+    "logo": "contacts",
+    "name": "lien6"
+  },
+  {
+    "id": "auth",
+    "href": "",
+    "logo": "security",
+    "name": "lien7",
+    "submenu": [
+      {
+        "href": "",
+        "name": "sous lien1"
+      },
+      {
+        "href": "",
+        "name": "sous lien2"
+      },
+      {
+        "href": "",
+        "name": "sous lien3"
+      }
+    ]
+  }
+]
